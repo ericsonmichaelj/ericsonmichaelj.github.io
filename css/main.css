@@ -1,6 +1,37 @@
 .socialmedia img{
     width:75px;
     height:75px;
+
 }
 
+
+a div:hover {
+    background-color: #E8E8E8;
+}
+
+
+
+
+body {
+    background-color:#808080;
+}
+
+.middle {
+    background-color:#141414;
+}
+h1 {
+    color:white;
+}
+h2 {
+    color: white;
+}
+
+.top{
+    background-color:#808080;
+}
+
+
+p {
+    color: white;
+}
 
