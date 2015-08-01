@@ -1,9 +1,18 @@
 .socialmedia img{
     width:75px;
     height:75px;
-
-
 }
+.top img{
+    width:25px;
+    height:25px;
+}
+
+.top .col {
+border: 1px solid white;
+}
+
+
+
 
 
 a div:hover {
